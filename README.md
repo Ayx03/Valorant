@@ -1,0 +1,2 @@
+# Valorant
+Install VALORANT.exe
